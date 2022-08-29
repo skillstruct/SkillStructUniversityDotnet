@@ -1,0 +1,14 @@
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\bin\Debug\netcoreapp3.1\SkillStructUniversityPortal.exe
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\bin\Debug\netcoreapp3.1\SkillStructUniversityPortal.deps.json
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\bin\Debug\netcoreapp3.1\SkillStructUniversityPortal.runtimeconfig.json
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\bin\Debug\netcoreapp3.1\SkillStructUniversityPortal.runtimeconfig.dev.json
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\bin\Debug\netcoreapp3.1\SkillStructUniversityPortal.dll
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\bin\Debug\netcoreapp3.1\SkillStructUniversityPortal.pdb
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.csproj.AssemblyReference.cache
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.AssemblyInfoInputs.cache
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.AssemblyInfo.cs
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.csproj.CoreCompileInputs.cache
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.dll
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.pdb
+C:\Users\SkillStructUser\source\repos\SkillStructUniversityPortal\SkillStructUniversityPortal\obj\Debug\netcoreapp3.1\SkillStructUniversityPortal.genruntimeconfig.cache
