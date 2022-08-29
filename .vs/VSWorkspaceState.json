@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SkillStructUniversityPortal\\SkillStructUniversityPortal",
+    "\\SkillStructUniversity",
     "\\SkillStructUniversity\\SkillStructUniversity",
     "\\SkillStructUniversity\\SkillStructUniversity\\bin"
   ],
-  "SelectedNode": "\\SkillStructUniversityPortal",
+  "SelectedNode": "\\SkillStructUniversity\\SkillStructUniversity\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
