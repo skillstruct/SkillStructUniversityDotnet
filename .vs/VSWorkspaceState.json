@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SkillStructUniversityPortal\\SkillStructUniversityPortal",
+    "\\SkillStructUniversity\\SkillStructUniversity",
+    "\\SkillStructUniversity\\SkillStructUniversity\\bin"
   ],
-  "SelectedNode": "\\C:\\Users\\mikeo\\Source\\Repos\\skillstruct\\SkillStructUniversityDotnet",
+  "SelectedNode": "\\SkillStructUniversityPortal",
   "PreviewInSolutionExplorer": false
 }
